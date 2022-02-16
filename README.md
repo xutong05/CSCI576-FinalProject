@@ -13,4 +13,5 @@ The first four numbers are the specific coordinates of the red box. The followin
 
 # Graphical Visualization
 ![HyperlinkTool](https://github.com/VincentAC-stack/CSCI576-FinalProject/blob/main/Hyperlink%20Tool.png "HyperlinkTool")
+<br>
 ![PlayerTool](https://github.com/VincentAC-stack/CSCI576-FinalProject/blob/main/Player%20Tool.png "PlayerTool")
